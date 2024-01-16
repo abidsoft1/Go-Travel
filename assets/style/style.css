@@ -442,7 +442,7 @@ video {
 .video-title h3 {
     position: absolute;
     width: 276px;
-    color: red;
+    color: white;
     text-align: center;
     font-family: Mulish;
     font-size: 24px;
@@ -594,11 +594,6 @@ footer hr {
     padding-top: 50px;
     padding-bottom: 110px;
 }
-
-
-
-
-
 
 
 
